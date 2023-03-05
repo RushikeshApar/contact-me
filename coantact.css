@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(165, 198, 198);
+    
+}
+
+form{
+    background-color: rgb(115, 162, 192);
+    color: rgb(234, 223, 217);
+    font-weight:100;
+    padding-left: 10px;
+    font-size: medium;
+    
+}
+img:hover{
+background-color: gold;
+}
+.dog{
+    background-color: rgb(143, 216, 69);
+    border-radius: 100px; /*in pixel*/
+  
+}
+.cat{
+    background-color: rgb(192, 50, 214);
+    border-radius: 100%;  /*in persenatge */
+}
